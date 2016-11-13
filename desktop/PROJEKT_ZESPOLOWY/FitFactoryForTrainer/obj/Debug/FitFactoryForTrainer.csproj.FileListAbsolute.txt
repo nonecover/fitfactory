@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\bin\Debug\FitFactoryForTrainer.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\bin\Debug\FitFactoryForTrainer.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\bin\Debug\FitFactoryForTrainer.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.Login.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.FitFactoryMain.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\FitFactoryForTrainer\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.Register.resources
+D:\Projects\GitHUB\fitfactory\desktop\PROJEKT_ZESPOLOWY\FitFactoryForTrainer\bin\Debug\FitFactoryForTrainer.exe.config
+D:\Projects\GitHUB\fitfactory\desktop\PROJEKT_ZESPOLOWY\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.exe
+D:\Projects\GitHUB\fitfactory\desktop\PROJEKT_ZESPOLOWY\FitFactoryForTrainer\obj\Debug\FitFactoryForTrainer.pdb
